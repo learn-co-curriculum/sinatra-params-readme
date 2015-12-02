@@ -39,3 +39,5 @@ So our params is a way to encapsulate data that is passed around through our enc
 ### Resources
 - [Sinatra URL Matching](http://ruby.about.com/od/sinatra/ss/sinatra3_3.htm)
 - [Sinatra Readme](http://www.sinatrarb.com/intro.html)
+
+<a href='https://learn.co/lessons/sinatra-params-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
